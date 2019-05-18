@@ -1,0 +1,24 @@
+{
+  "name": "nn-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briantimar/nn-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briantimar/nn-explorer/issues"
+  },
+  "homepage": "https://github.com/briantimar/nn-explorer#readme"
+}
